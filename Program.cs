@@ -39,12 +39,6 @@ using (var context = new BasketDbContext())
 #endregion
 
 
-#region Updating
-
-using
-
-#endregion
-
 #region Remove
 
 using (var context = new BasketDbContext())
